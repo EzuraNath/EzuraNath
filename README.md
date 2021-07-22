@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EzuraNath
-- 👀 I’m interested in becoming a software engineer in non-for-profit organization ^^
-- 🌱 I’m currently learning Python and C++ since both really helps me with programming constructs
-- 💞️ I’m looking to collaborate on the MANIM (animation engine) and the XEUS Project from Jupyter.org
+- 👀 I’m interested in becoming a back-end developer in a non-for-profit organization ^^
+- 🌱 I’m currently learning C and Rust since both really helps me with programming constructs and the inner workings of a computer
+- 💞️ I’m looking to collaborate on the WebAssembly and future high-performance web apps ;)
 - 📫 How to reach me ezuranath@gmail.com 
 
 <!---
